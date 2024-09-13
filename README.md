@@ -1,5 +1,9 @@
 # React + Vite
-
+#Steps to set up the project:
+1. Download the project
+2. On your terminal >> cd Ecom
+3. >npm install
+4. >npm run dev
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
