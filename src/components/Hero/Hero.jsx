@@ -1,8 +1,8 @@
 import Slider from "react-slick";
-import Image1 from "../../assets/hero/Headphone.png";
+import Image1 from "../../assets/hero/headphone.png";
 import Image2 from "../../assets/hero/VR.png";
 import Image3 from "../../assets/hero/laptop.png";
-import Image4 from "../../assets/hero/wATCH.png";
+import Image4 from "../../assets/hero/WATCH.png";
 import Button from "../Shared/Button";
 
 const HeroData = [
